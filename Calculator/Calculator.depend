@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1459814145 source:c:\users\ali abdulla\desktop\cpp\calculator\addition.cpp
+	"Addition.h"
+
+1459813400 c:\users\ali abdulla\desktop\cpp\calculator\addition.h
+	"Exp.h"
+	"ArithOp.h"
+
+1461022863 c:\users\ali abdulla\desktop\cpp\calculator\exp.h
+	<string>
+	"ArithOp.h"
+
+1461022863 c:\users\ali abdulla\desktop\cpp\calculator\arithop.h
+	<string>
+
+1460417107 source:c:\users\ali abdulla\desktop\cpp\calculator\arithop.cpp
+	"ArithOp.h"
+
+1461023425 source:c:\users\ali abdulla\desktop\cpp\calculator\exp.cpp
+	"Exp.h"
+	"Expression.h"
+	<iostream>
+	<string>
+
+1459460871 c:\users\ali abdulla\desktop\cpp\calculator\expression.h
+	<vector>
+	<iostream>
+
+1461024686 source:c:\users\ali abdulla\desktop\cpp\calculator\expression.cpp
+	"Expression.h"
+	<string>
+	<cstring>
+
+1461287939 source:c:\users\ali abdulla\desktop\cpp\calculator\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<stdexcept>
+	"Expression.h"
+	"PrintVect.h"
+	"Exp.h"
+	"Constant.h"
+	"Addition.h"
+	"Subtraction.h"
+	"Multiplication.h"
+	"Division.h"
+
+1460419392 c:\users\ali abdulla\desktop\cpp\calculator\printvect.h
+	<vector>
+	<iostream>
+
+1460419825 source:c:\users\ali abdulla\desktop\cpp\calculator\printvect.cpp
+	"PrintVect.h"
+
+1459815103 source:c:\users\ali abdulla\desktop\cpp\calculator\value.cpp
+
+1460417273 source:c:\users\ali abdulla\desktop\cpp\calculator\expbuilder.cpp
+	"ExpBuilder.h"
+
+1460417249 c:\users\ali abdulla\desktop\cpp\calculator\expbuilder.h
+	"Exp.h"
+
+1461020641 source:c:\users\ali abdulla\desktop\cpp\calculator\constant.cpp
+	"Constant.h"
+	<sstream>
+	<string>
+	"Exp.h"
+
+1461020641 c:\users\ali abdulla\desktop\cpp\calculator\constant.h
+	"ArithOp.h"
+	"Exp.h"
+
+1461023704 source:c:\users\ali abdulla\desktop\cpp\calculator\subtraction.cpp
+	"Subtraction.h"
+
+1461023689 c:\users\ali abdulla\desktop\cpp\calculator\subtraction.h
+	"Exp.h"
+	"ArithOp.h"
+
+1461023924 source:c:\users\ali abdulla\desktop\cpp\calculator\multiplication.cpp
+	"Multiplication.h"
+
+1461023913 c:\users\ali abdulla\desktop\cpp\calculator\multiplication.h
+	"Exp.h"
+	"ArithOp.h"
+
+1461024125 source:c:\users\ali abdulla\desktop\cpp\calculator\division.cpp
+	"Division.h"
+
+1461024107 c:\users\ali abdulla\desktop\cpp\calculator\division.h
+	"Exp.h"
+	"ArithOp.h"
+
